@@ -103,3 +103,5 @@ version.texi
 .cargo
 !src/vendor/**
 /src/target/
+/git/
+/registry/
